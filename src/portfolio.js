@@ -49,10 +49,10 @@ const events = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      companylogo: require("./assets/images/quoraLogo.png"),
-      company: "Title",
-      date: "Description",
-      desc: "https://www.google.com",
+      companylogo: require("./assets/images/maxplankLogo.svg"),
+      company: "Talk on Spintronic memories",
+      date: "Attended a talk by Dr Stuart Parkin, Director of Max Planck Institute of Microstructure Physics on Spintronic memories in IEEE-ICEE conference 2020",
+      desc: "https://sauravmittal001.medium.com/attended-the-talk-by-dr-stuart-s-p-parkin-at-ieee-icee-conference-2020-29d942e574fd",
       role: "",
       descBullets: []
     }
